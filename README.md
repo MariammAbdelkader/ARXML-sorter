@@ -15,3 +15,11 @@ program that reads an ARXML file containing a list of containers, each with a un
            
 5-Assume any missing requirement and put it in your code
            
+# Files:
+ARXML.java: Java code containing main class ,AUTOSAR class and exceptions classes
+Empty.arxml: empty arxml file to test the empty case
+Normal.arxml: arxml file unordered to test the normal case
+Normal_mod.arxml: arxml file after sorting
+tests.bat:This is a batch file that runs your program 
+wrongExtention.txt:text document to test the wrong case
+
